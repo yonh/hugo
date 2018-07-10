@@ -2,147 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Minimal</title>
-    <link>http://example.com/tags/</link>
+    <link>https://yonh.github.io/hugo/tags/</link>
     <description>Recent content in Tags on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yonh.github.io/hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bootstrap</title>
-      <link>http://example.com/tags/bootstrap/</link>
+      <link>https://yonh.github.io/hugo/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/bootstrap/</guid>
+      <guid>https://yonh.github.io/hugo/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Css</title>
-      <link>http://example.com/tags/css/</link>
+      <link>https://yonh.github.io/hugo/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/css/</guid>
+      <guid>https://yonh.github.io/hugo/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.com/tags/development/</link>
+      <link>https://yonh.github.io/hugo/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/development/</guid>
+      <guid>https://yonh.github.io/hugo/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://example.com/tags/go/</link>
+      <link>https://yonh.github.io/hugo/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/go/</guid>
+      <guid>https://yonh.github.io/hugo/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://example.com/tags/golang/</link>
+      <link>https://yonh.github.io/hugo/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/golang/</guid>
+      <guid>https://yonh.github.io/hugo/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlight Js</title>
-      <link>http://example.com/tags/highlight-js/</link>
+      <link>https://yonh.github.io/hugo/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/highlight-js/</guid>
+      <guid>https://yonh.github.io/hugo/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://example.com/tags/html/</link>
+      <link>https://yonh.github.io/hugo/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/html/</guid>
+      <guid>https://yonh.github.io/hugo/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://example.com/tags/hugo/</link>
+      <link>https://yonh.github.io/hugo/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/hugo/</guid>
+      <guid>https://yonh.github.io/hugo/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>http://example.com/tags/jekyll/</link>
+      <link>https://yonh.github.io/hugo/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/jekyll/</guid>
+      <guid>https://yonh.github.io/hugo/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Js</title>
-      <link>http://example.com/tags/js/</link>
+      <link>https://yonh.github.io/hugo/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/js/</guid>
+      <guid>https://yonh.github.io/hugo/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Responsive</title>
-      <link>http://example.com/tags/responsive/</link>
+      <link>https://yonh.github.io/hugo/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/responsive/</guid>
+      <guid>https://yonh.github.io/hugo/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Site Generator</title>
-      <link>http://example.com/tags/static-site-generator/</link>
+      <link>https://yonh.github.io/hugo/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/static-site-generator/</guid>
+      <guid>https://yonh.github.io/hugo/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://example.com/tags/syntax-highlighting/</link>
+      <link>https://yonh.github.io/hugo/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/syntax-highlighting/</guid>
+      <guid>https://yonh.github.io/hugo/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>http://example.com/tags/template/</link>
+      <link>https://yonh.github.io/hugo/tags/template/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/template/</guid>
+      <guid>https://yonh.github.io/hugo/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://example.com/tags/themes/</link>
+      <link>https://yonh.github.io/hugo/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/themes/</guid>
+      <guid>https://yonh.github.io/hugo/tags/themes/</guid>
       <description></description>
     </item>
     

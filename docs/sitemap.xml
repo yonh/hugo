@@ -3,164 +3,164 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/project/project1/</loc>
+    <loc>https://yonh.github.io/hugo/project/project1/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project2/</loc>
+    <loc>https://yonh.github.io/hugo/project/project2/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project3/</loc>
+    <loc>https://yonh.github.io/hugo/project/project3/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project4/</loc>
+    <loc>https://yonh.github.io/hugo/project/project4/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/md/20160628101158/</loc>
+    <loc>https://yonh.github.io/hugo/md/20160628101158/</loc>
     <lastmod>2018-07-10T06:36:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/md/20160604162140/</loc>
+    <loc>https://yonh.github.io/hugo/md/20160604162140/</loc>
     <lastmod>2016-05-29T23:08:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/creating-a-new-theme/</loc>
+    <loc>https://yonh.github.io/hugo/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/goisforlovers/</loc>
+    <loc>https://yonh.github.io/hugo/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/hugoisforlovers/</loc>
+    <loc>https://yonh.github.io/hugo/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://yonh.github.io/hugo/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/bootstrap/</loc>
+    <loc>https://yonh.github.io/hugo/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://yonh.github.io/hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/css/</loc>
+    <loc>https://yonh.github.io/hugo/tags/css/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/development/</loc>
+    <loc>https://yonh.github.io/hugo/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/go/</loc>
+    <loc>https://yonh.github.io/hugo/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/golang/</loc>
+    <loc>https://yonh.github.io/hugo/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/highlight-js/</loc>
+    <loc>https://yonh.github.io/hugo/tags/highlight-js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/html/</loc>
+    <loc>https://yonh.github.io/hugo/tags/html/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hugo/</loc>
+    <loc>https://yonh.github.io/hugo/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/jekyll/</loc>
+    <loc>https://yonh.github.io/hugo/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/js/</loc>
+    <loc>https://yonh.github.io/hugo/tags/js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/md/</loc>
+    <loc>https://yonh.github.io/hugo/md/</loc>
     <lastmod>2018-07-10T06:36:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://yonh.github.io/hugo/</loc>
     <lastmod>2018-07-10T06:36:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/</loc>
+    <loc>https://yonh.github.io/hugo/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/project/</loc>
+    <loc>https://yonh.github.io/hugo/project/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/responsive/</loc>
+    <loc>https://yonh.github.io/hugo/tags/responsive/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/static-site-generator/</loc>
+    <loc>https://yonh.github.io/hugo/tags/static-site-generator/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/syntax-highlighting/</loc>
+    <loc>https://yonh.github.io/hugo/tags/syntax-highlighting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://yonh.github.io/hugo/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/template/</loc>
+    <loc>https://yonh.github.io/hugo/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/themes/</loc>
+    <loc>https://yonh.github.io/hugo/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
