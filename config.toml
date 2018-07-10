@@ -45,20 +45,20 @@ canonifyurls = true
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 
-[[menu.icon]]
-    url = "mailto:me@example.com"
-    name = "envelope-o"
-    weight = 1
+#[[menu.icon]]
+#    url = "mailto:me@example.com"
+#    name = "envelope-o"
+#    weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/yonh/"
     name = "github"
     weight = 2
 
-[[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
-    weight = 3
+#[[menu.icon]]
+#    url = "https://twitter.com/username/"
+#    name = "twitter"
+#    weight = 3
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/username/"
