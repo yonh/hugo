@@ -12,24 +12,6 @@
     
     
     <item>
-      <title>Bootstrap</title>
-      <link>https://yonh.github.io/hugo/tags/bootstrap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yonh.github.io/hugo/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Css</title>
-      <link>https://yonh.github.io/hugo/tags/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yonh.github.io/hugo/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Development</title>
       <link>https://yonh.github.io/hugo/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -57,24 +39,6 @@
     </item>
     
     <item>
-      <title>Highlight Js</title>
-      <link>https://yonh.github.io/hugo/tags/highlight-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yonh.github.io/hugo/tags/highlight-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>https://yonh.github.io/hugo/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yonh.github.io/hugo/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo</title>
       <link>https://yonh.github.io/hugo/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
@@ -93,38 +57,11 @@
     </item>
     
     <item>
-      <title>Js</title>
-      <link>https://yonh.github.io/hugo/tags/js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yonh.github.io/hugo/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsive</title>
-      <link>https://yonh.github.io/hugo/tags/responsive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yonh.github.io/hugo/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Static Site Generator</title>
       <link>https://yonh.github.io/hugo/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yonh.github.io/hugo/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://yonh.github.io/hugo/tags/syntax-highlighting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yonh.github.io/hugo/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
